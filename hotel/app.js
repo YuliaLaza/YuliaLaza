@@ -55,6 +55,8 @@ discountOrNot();
 
 var parkingYesOrNo = () => parkingNights > 0? (parkingNights * parking) + discountOrNot : discountOrNot;
  
+
+// esto lo hago sin saber muy bien el porque, un poco para probar, pero no creo que haya que juntarlas asi, pero me parece que falta algo que las una a todas las funcciones
 function totalReserved(){
     priceNights();
     spaYesOrNo();
