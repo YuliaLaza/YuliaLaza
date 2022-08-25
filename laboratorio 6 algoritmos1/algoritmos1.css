@@ -1,0 +1,12 @@
+body{
+     font-family:'Courier New', Courier, monospace ;
+     
+    }
+button {
+    background-color:rgb(5, 134, 22);
+    font-size:18px;
+border: none;
+    width: 150px;
+    color: white;
+    padding: 5px;
+}
